@@ -1,6 +1,6 @@
-# ASC Software Organization Core Working Groups
+# Planetary Software Organization Core Working Groups
 
-ASC Software Organization Core Working Groups are autonomous projects created by the
+Planetary Software Organization Core Working Groups are autonomous projects created by the
 [Technical Steering Committee (TSC)][].
 
 Working Groups can be formed at any time but must be ratified by the TSC.
@@ -26,7 +26,7 @@ the working group's repository.
 
 ## Starting a Core Working Group
 
-A Working Group is established by first defining a charter  that can be
+A Working Group is established by first defining a charter that can be
 ratified by the TSC. A charter is a *statement of purpose*, a
 *list of responsibilities* and a *list of initial membership*.
 
@@ -52,14 +52,13 @@ README.
 ## Bootstrap Governance
 
 Once the TSC ratifies a charter the WG inherits the following
-documentation for governance, contribution, conduct and an MIT
-LICENSE. The WG is free to change these documents through their own
+documentation for governance, contribution, and conduct. The WG is free to change these documents through their own
 governance process, hence the term "bootstrap."
 
 ```markdown
 ### *[insert WG name]* Working Group
 
-The ASC Software Organization *[insert WG name]* is jointly governed by a Working Group (WG)
+The Planetary Software Organization *[insert WG name]* is jointly governed by a Working Group (WG)
 that is responsible for high-level guidance of the project.
 
 The WG has final authority over this project including:
@@ -146,8 +145,7 @@ members affiliated with the over-represented employer(s).
 ### WG Meetings
 
 The WG meets weekly using tools that enable participation by the
-community (e.g. monthly on a Google Hangout On Air, or through any other
-appropriate means selected by the WG). A designated moderator
+community (via appropriate means selected by the WG). A designated moderator
 approved by the WG runs the meeting. Meeting notes will be distributed
 on the WG GitHub repository.
 
@@ -185,8 +183,8 @@ consensus.
 
 If an agenda item cannot reach a consensus a WG member can call for
 either a closing vote or a vote to table the issue to the next
-meeting. The call for a vote must be seconded by a majority of the WG
-or else the discussion will continue. Simple majority wins.
+meeting. Such a vote must be passed by a two-thirds majority of the WG
+or else the discussion will continue.
 
 Note that changes to WG membership require unanimous consensus.  See
 "WG Membership" above.
@@ -194,7 +192,7 @@ Note that changes to WG membership require unanimous consensus.  See
 <a id="developers-certificate-of-origin"></a>
 ## Developer's Certificate of Origin 1.1
 
-*Note*: The DCO is mandatory for all ASC Software Organization Foundation projects.
+*Note*: The DCO is mandatory for all Planetary Software Organization projects.
 
 By making a contribution to this project, I certify that:
 
@@ -222,14 +220,14 @@ By making a contribution to this project, I certify that:
 
 ### Moderation Policy
 
-The [ASC Software Organization Moderation Policy] applies to this WG.
+The [Planetary Software Organization Moderation Policy] applies to this WG.
 
 ### Code of Conduct
 
-The [ASC Software Organization][] applies to this WG.
+The [Planetary Software Organization][] applies to this WG.
 
 [ASC Software Organization Code of Conduct]: https://usgs-astrogeology.github.io/code/
-[ASC Software Organization Moderation Policy]: https://github.com/USGS-Astroegology/TSC/blob/master/Moderation-Policy.md
+[Planetary Software Organization Moderation Policy]: https://github.com/planetarysoftware/TSC/blob/master/Moderation-Policy.md
 ```
 
 ## Current Working Groups
