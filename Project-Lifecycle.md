@@ -1,16 +1,16 @@
-# ASC Software Organization Project Lifecycle
+# Planetary Software Organization Project Lifecycle
 
-> This is a draft document that requires review and approval by the ASC Software Organization TSC and the ASC Management Team.
+> This is a draft document that requires review and approval.
 
 ## Project Definition
 
-The ASC Software Organization hosts several "Top-Level Projects (TLPs)." These projects
+The Planetary Software Organization hosts several "Top-Level Projects (TLPs)." These projects
 are autonomous from each other and governed by their own TC (Technical
-Committee) and chartered by the ASC TSC.
+Committee) and chartered by the Planetary Software TSC.
 
 Projects are free to create "Working Groups" which are autonomous groups
 collaborating to fulfill a set of responsibilities. Working Groups are
-eventually chartered by the TC. The TSC also charters its own Working
+eventually chartered by their project TC. The TSC also charters its own Working
 Groups.
 
 ```
@@ -60,11 +60,11 @@ is expected to be larger than the TSC.
 ## Lifecycle
 
 The TSC shall encourage new Projects and innovation in the
-community. New Projects enter the ASC Software Organization through a
+community. New Projects enter the Planetary Software Organization through a
 [Proposal](#Proposal).
 
 The project should be considered mature and have a history of releases
-before applying to enter the foundation.
+before applying to enter.
 
 ## Top-Level Project and Working Group Requirements
 
@@ -84,12 +84,12 @@ Seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
 process and are responsible for documenting and keeping up to date their
 current processes and practices.
 
-Each TLP TC must elect a representative to the ASC Software Organization TSC or
+Each TLP TC must elect a representative to the Planetary Software Organization TSC or
 vote to abstain from representation on the TSC.
 
 ## Applying to join
 
-A proposal to join the ASC Software Organization as a top-level Project or
+A proposal to join the Planetary Software Organization as a top-level Project or
 Working Group must include:
 
 * Introduction and project description.
@@ -107,9 +107,7 @@ and community.
 * List of initial Working Groups.
 * Prior to being admitted the project:
  * Must include [DCO]().
- * Must include approved license. If it is not currently under an
- approved license it will need to be cleared by the TSC and the Node.js
- Foundation Legal Committee prior to acceptance in to the incubator.
+ * Must include approved license.
  * Must include a [Code of Conduct](https://usgs-astrogeology.github.io/code/).
 
 Each proposal should be sent as a pull request to this repository in the
@@ -119,11 +117,11 @@ communities in each Pull Request.
 
 ### Approved Licenses
 
-At this time the ASC Software Organization is only accepting projects which use an MIT,
+At this time the Planetary Software Organization is only accepting projects which use an MIT,
 BSD, ISC, Apache2, or UnLicense license.
 
 ### Admittance
-The ASC Software Organization is quite new and currently has limited resources
+The Planetary Software Organization is quite new and currently has limited resources
 available to mentor new projects. As such, projects are chosen for
 admission in groups as mentors become available.
 
