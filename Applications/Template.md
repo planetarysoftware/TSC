@@ -5,7 +5,7 @@
 
 ## Scope
 
-The [WG Name]  will have sole responsibility and discretion over the Node.js
+The [WG Name]  will have sole responsibility and discretion over the Planetary Software
 project in the following areas:
 
 * Setting release dates.
