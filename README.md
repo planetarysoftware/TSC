@@ -1,6 +1,6 @@
 # The Planetary Software Organization Technical Steering Committee
 
-The Planeatry Software Organization Technical Steering Committee (TSC) is the technical
+The Planetary Software Organization Technical Steering Committee (TSC) is the technical
 governing body of the Planetary Software Organization. It is described in the
 [TSC Charter][].
 
@@ -13,7 +13,7 @@ The TSC exercises autonomy in managing its responsibilities.
 
 ### Planetary Software projects under TSC Stewardship
 
-None (maybe planetarypy soon?)
+None yet.
 
 
 ### Planetary Software projects under TSC advisement
@@ -63,8 +63,8 @@ bodies such as the Working Groups.
 ## TSC Members
 
 TSC members are responsible for top level technical community concerns. The role
-is mostly administrative and is responsible for admitting new Top Level
-Projects, Top Level Working Groups..
+is mostly administrative and is primarily responsible for admitting new Top Level
+Projects and Top Level Working Groups.
 
 TSC members can nominate new members at any time. Candidates for membership tend
 to be people who have a competency for community management and a high tolerance
