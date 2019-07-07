@@ -60,6 +60,7 @@ including:
 * Technical direction.
 * Project governance and process (including this policy).
 * GitHub repository hosting.
+* Maintaining a list of affiliate projects
 * Conduct guidelines.
 * Maintaining the list of additional Collaborators.
 * Development process and coding standards.
