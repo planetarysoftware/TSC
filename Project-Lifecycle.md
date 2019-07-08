@@ -61,7 +61,7 @@ is expected to be larger than the TSC.
 
 The TSC shall encourage new Projects and innovation in the
 community. New Projects enter the Planetary Software Organization through a
-[Proposal](#Proposal).
+[Proposal](#https://github.com/planetarysoftware/TSC/blob/master/Project-Lifecycle.md#applying-to-join).
 
 The project should be considered mature and have a history of releases
 before applying to enter.
@@ -106,7 +106,6 @@ and community.
 * List of initial TC members.
 * List of initial Working Groups.
 * Prior to being admitted the project:
- * Must include [DCO]().
  * Must include approved license.
  * Must include a [Code of Conduct](https://usgs-astrogeology.github.io/code/).
 
