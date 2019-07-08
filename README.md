@@ -18,19 +18,7 @@ None yet.
 
 ### Planetary Software projects under TSC advisement
 
-*These are from a previous version of this document, but need to be vetted.*
-These projects are located in the following repositories:
-
-* https://github.com/USGS-Astrogeology/isis3_dependencies
-* https://github.com/USGS-Astrogeology/TSC
-* https://github.com/USGS-Astrogeology/eal - currently under incubation
-* https://github.com/USGS-Astrogeology/CSM-CameraModel
-* https://github.com/USGS-Astrogeology/csm
-* https://github.com/USGS-Astrogeology/CSM-Swig
-* https://github.com/USGS-Astrogeology/autocnet
-* https://github.com/USGS-Astrogeology/plio
-* https://github.com/USGS-Astrogeology/PyHAT
-* https://github.com/USGS-Astrogeology/ISIS3_mission_processing_scripts
+None yet.
 
 ### List of TSC Responsibilities
 
