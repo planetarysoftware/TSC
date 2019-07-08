@@ -1,6 +1,6 @@
 # Strategic Initiatives
 
-At any one time the ASC Software Organization has a number of strategic initiatives
+At any one time the Planetary Software Organization has a number of strategic initiatives
 underway.  The goal of the TSC is to have a champion for each of these
 initiatives and to support the initiatives in order to enable their
 success.
@@ -14,7 +14,6 @@ and have the support needed.
 | Initiative        | Champion                                                  | Links                                                            |
 |-------------------|-----------------------------------------------------------|------------------------------------------------------------------|
 | CSM            | [Trent Hare][thareusgs]                                    | https://github.com/USGS-Astrogeology/CSM-CameraModel |
-| SPICE Modularization           | [Jay Laura][jlaura] + [Jesse Mapel][jessemapel]                                | https://github.com/USGS-Astrogeology/SpiceRefactor |
 
 # Need volunteers for
 
@@ -30,6 +29,4 @@ and have the support needed.
 
 
 
-[jlaura]: https://github.com/jlaura
 [thareusgs]: https://github.com/thareusgs
-[jessemapel]: https://github.com/jessemapel
