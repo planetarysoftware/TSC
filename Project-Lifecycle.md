@@ -107,7 +107,7 @@ and community.
 * List of initial Working Groups.
 * Prior to being admitted, the project:
   * must include approved license.
-  * must include a [Code of Conduct](https://usgs-astrogeology.github.io/code/).
+  * must include a Code of Conduct (e.g. the [Planetary Software Code of Conduct](CODE_OF_CONDUCT.md)).
 
 Each proposal should be sent as a pull request to this repository in the
 Applications directory. Proposals do not have to be complete to be
