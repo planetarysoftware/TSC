@@ -105,9 +105,9 @@ and community.
   domain names, etc.).
 * List of initial TC members.
 * List of initial Working Groups.
-* Prior to being admitted the project:
- * Must include approved license.
- * Must include a [Code of Conduct](https://usgs-astrogeology.github.io/code/).
+* Prior to being admitted, the project:
+  * must include approved license.
+  * must include a [Code of Conduct](https://usgs-astrogeology.github.io/code/).
 
 Each proposal should be sent as a pull request to this repository in the
 Applications directory. Proposals do not have to be complete to be
