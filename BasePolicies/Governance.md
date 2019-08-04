@@ -83,9 +83,9 @@ members affiliated with the over-represented employer(s).
 a WG decide that it does not wish to hold meetings, this section may be
 removed from the Governance document.*
 
-The WG meets weekly on a Google Hangout On Air. A designated moderator
-approved by the WG runs the meeting. Each meeting should be
-published to YouTube.
+The WG meets weekly via an online video teleconference service like Zoom or Google Hangout.
+A designated moderator approved by the WG runs the meeting. 
+Each meeting should be published to YouTube.
 
 Items are added to the WG agenda that are considered contentious or
 are modifications of governance, contribution policy, WG membership,
