@@ -8,12 +8,11 @@ and referenced by the `README.md`.
 
 ### Collaborators
 
-The *[insert WG name]* GitHub repository is
-maintained by the WG and additional Collaborators who are added by the
-WG on an ongoing basis.
+The *[insert WG name]* GitHub repository is maintained by the WG and
+additional Collaborators who are added by the WG on an ongoing basis.
 
 Individuals making significant and valuable contributions are made
-Collaborators and given commit-access to the project. These
+Collaborators and given commit-access to the WG. These
 individuals are identified by the WG and their addition as
 Collaborators is discussed during the weekly WG meeting.
 
@@ -24,7 +23,7 @@ individual.
 
 Modifications of the contents of the *[insert WG repo]* repository are made on
 a collaborative basis. Anybody with a GitHub account may propose a
-modification via pull request and it will be considered by the project
+modification via pull request and it will be considered by the WG
 Collaborators. All pull requests must be reviewed and accepted by a
 Collaborator with sufficient expertise who is able to take full
 responsibility for the change. In the case of pull requests proposed
@@ -39,7 +38,7 @@ controversial modifications to the WG as a whole by assigning the
 ***WG-agenda*** tag to a pull request or issue. The WG should serve as the
 final arbiter where required.
 
-For the current list of Collaborators, see the project [README.md][].
+For the current list of Collaborators, see the WG [README.md][].
 
 ### WG Membership
 
@@ -70,9 +69,9 @@ membership decisions.  If a WG member is unable to attend a meeting
 where a planned membership decision is being made, then their consent
 is assumed.
 
-No more than 1/3 of the WG members may be affiliated with the same
+No more than 1/2 of the WG members may be affiliated with the same
 employer.  If removal or resignation of a WG member, or a change of
-employment by a WG member, creates a situation where more than 1/3 of
+employment by a WG member, creates a situation where more than 1/2 of
 the WG membership shares an employer, then the situation must be
 immediately remedied by the resignation or removal of one or more WG
 members affiliated with the over-represented employer(s).
@@ -84,7 +83,7 @@ a WG decide that it does not wish to hold meetings, this section may be
 removed from the Governance document.*
 
 The WG meets weekly via an online video teleconference service like Zoom or Google Hangout.
-A designated moderator approved by the WG runs the meeting. 
+A designated moderator approved by the WG runs the meeting.
 Each meeting should be published to YouTube.
 
 Items are added to the WG agenda that are considered contentious or
@@ -105,7 +104,7 @@ members of the WG. WG members can add any items they like to the
 agenda at the beginning of each meeting. The moderator and the WG
 cannot veto or remove items.
 
-The WG may invite persons or representatives from certain projects to
+The WG may invite persons or representatives from outside of the WG to
 participate in a non-voting capacity.
 
 The moderator is responsible for summarizing the discussion of each
@@ -132,7 +131,7 @@ vote may be called following the process above.
 <a id="developers-certificate-of-origin"></a>
 ## Developer's Certificate of Origin 1.1
 
-By making a contribution to this project, I certify that:
+By making a contribution to this Working Group, I certify that:
 
 * (a) The contribution was created in whole or in part by me and I
   have the right to submit it under the open source license
@@ -150,11 +149,11 @@ By making a contribution to this project, I certify that:
   person who certified (a), (b) or (c) and I have not modified
   it.
 
-* (d) I understand and agree that this project and the contribution
+* (d) I understand and agree that this Working Group and the contribution
   are public and that a record of the contribution (including all
   personal information I submit with it, including my sign-off) is
   maintained indefinitely and may be redistributed consistent with
-  this project or the open source license(s) involved.
+  this Working Group or the open source license(s) involved.
 
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [README.md]: ./README.md#current-project-team-members
