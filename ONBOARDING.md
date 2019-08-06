@@ -12,6 +12,12 @@ invalid and are superseded by the TSC Charter.
   [Code of Conduct](https://usgs-astrogeology.github.io/code/).
 * Add the new member to the `@planetarysoftware/tsc-members` team.
 * Change the new member's role in the GitHub `planetarysoftware` organization to `Owner`.
+* Inform the new member about these guidelines for changes to the TSC repo:
+  - The submitter of a PR is responsible for making changes to the PR.  Any changes to the PR can be suggested by others in the PR thread, but changes to the PR should be made by the PR author.
+  - In order to merge a PR, it must satisfy these two conditions: 
+    1. have been open for 24h
+    2. have two approvals
+  - Exceptions to the above are minor typo fixes or cosmetic changes that don't alter the meaning of a document.  Those edits can be made to a PR or directly committed to the repo.
 * Update the repository Members to reflect membership in the TSC.
 * Get new member's preferred Google account to give them 'write' ability to the Planetary Software TSC Google Calendar.
 
