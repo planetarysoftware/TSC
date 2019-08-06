@@ -96,6 +96,7 @@ Working Group must include:
 * Project history.
 * Any available metrics or even estimates about the user base, ecosystem
 and community.
+* Description of existing community or expected community.
 * Project scope.
 * Current governance process.
 * Current contribution process.
