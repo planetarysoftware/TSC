@@ -220,14 +220,12 @@ By making a contribution to this project, I certify that:
 
 ### Moderation Policy
 
-The [Planetary Software Organization Moderation Policy] applies to this WG.
+The [Planetary Software Organization Moderation Policy](./Moderation-Policy.md)
+applies to this WG.
 
 ### Code of Conduct
 
-The [Planetary Software Organization][] applies to this WG.
-
-[ASC Software Organization Code of Conduct]: https://usgs-astrogeology.github.io/code/
-[Planetary Software Organization Moderation Policy]: https://github.com/planetarysoftware/TSC/blob/master/Moderation-Policy.md
+The [Planetary Software Organization Code of Conduct](./CODE_OF_CONDUCT.md) applies to this WG.
 ```
 
 ## Current Working Groups
