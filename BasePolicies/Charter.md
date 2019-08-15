@@ -22,5 +22,5 @@ The WG responsibilities include:
 
 For the current list of WG members, see the project [README.md][].
 
-[TSC]: https://github.com/USGS-Astrogeology/TSC/blob/master/WORKING_GROUPS.md
+[TSC]: https://github.com/planetarysoftware/TSC/blob/master/WORKING_GROUPS.md
 [README.md]: ./README.md#current-project-team-members
