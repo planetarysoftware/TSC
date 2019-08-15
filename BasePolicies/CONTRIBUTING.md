@@ -1,15 +1,15 @@
-# ASC Software Organization Community Contributing Guide 1.0
+# Planetary Software Organization Community Contributing Guide 1.0
 
 This document describes a very simple process suitable for most projects
-in the ASC Software Organization ecosystem. Projects are encouraged to adopt this whether they
-are hosted in the ASC Software Organization or not.
+in the Planetary Software Organization ecosystem. Projects are encouraged to adopt this whether they
+are hosted in the Planetary Software Organization or not.
 
 The goal of this document is to create a contribution process that:
 
 * Encourages new contributions.
 * Encourages contributors to remain involved.
 * Avoids unnecessary processes and bureaucracy whenever possible.
-* Creates a transparent decision making process which makes it clear how
+* Creates a transparent decision making process which clearly describes how
 contributors can be involved in decision making.
 
 
@@ -40,7 +40,7 @@ pull requests.
 
 No pull request can be merged without being reviewed.
 
-For non-trivial contributions, pull requests should sit for at least 36 hours to ensure that
+For non-trivial contributions, pull requests should sit for at least 24 hours to ensure that
 contributors in other timezones have time to review. Consideration should also be given to 
 weekends and other holiday periods to ensure active committers all have reasonable time to 
 become involved in the discussion and review process if they wish.
