@@ -4,14 +4,14 @@ A Working Group is established by first defining a charter that can be
 ratified by the TC. A charter is a *statement of purpose*, a
 *list of responsibilities* and a *list of initial membership*.
 
-A working group needs 3 initial members. These should be individuals
+A Working Group needs 3 initial members. These should be individuals
 already undertaking the work described in the charter.
 
 The list of responsibilities should be specific. Once established, these
 responsibilities are no longer governed by the TC and therefore should
-not be broad or subjective. The only recourse the TC has over the working
-group is to revoke the entire charter and take on the work previously
-done by the working group themselves.
+not be broad or subjective. The only recourse the TC has over the Working
+Group is to revoke the entire charter and take on the work previously
+done by the Working Group themselves.
 
 If the responsibilities described in the charter are currently
 undertaken by another WG then the charter will additionally have to be
