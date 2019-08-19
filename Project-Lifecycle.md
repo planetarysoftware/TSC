@@ -132,5 +132,5 @@ Once admitted, please update the relevant readme files for the project to includ
 
 | Type       | Badge | Raw Markdown |
 |------------|-------------------|------------------------|
-| Affiliate  | [![Affiliate](https://img.shields.io/badge/Planetary_Software-Affiliate-645394.svg)]() | ```[![Affiliate](https://img.shields.io/badge/Planetary_Software-Affiliate-645394.svg)](https://affiliate-url)``` |
-| Project    | [![Project](https://img.shields.io/badge/Planetary_Software-Project-645394.svg)]() | ```[![Project](https://img.shields.io/badge/Planetary_Software-Project-645394.svg)](https://project-url)``` |
+| Affiliate  | [![Affiliate](https://img.shields.io/badge/Planetary_Software-Affiliate-645394.svg)](https://github.com/planetarysoftware/TSC) | ```[![Affiliate](https://img.shields.io/badge/Planetary_Software-Affiliate-645394.svg)](https://github.com/planetarysoftware/TSC)``` |
+| Project    | [![Project](https://img.shields.io/badge/Planetary_Software-Project-645394.svg)](https://github.com/planetarysoftware/TSC) | ```[![Project](https://img.shields.io/badge/Planetary_Software-Project-645394.svg)](https://github.com/planetarysoftware/TSC)``` |
