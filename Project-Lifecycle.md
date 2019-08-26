@@ -127,3 +127,10 @@ admission in groups as mentors become available.
 You can apply at any time and the TSC and available mentors will help
 improve your application while awaiting the next available approval
 phase.
+
+Once admitted, please update the relevant readme files for the project to include the appropriate Planetary Software Organization badge.
+
+| Type       | Badge | Raw Markdown |
+|------------|-------------------|------------------------|
+| Affiliate  | [![Affiliate](https://img.shields.io/badge/Planetary_Software-Affiliate-645394.svg)](https://github.com/planetarysoftware/TSC) | ```[![Affiliate](https://img.shields.io/badge/Planetary_Software-Affiliate-645394.svg)](https://github.com/planetarysoftware/TSC)``` |
+| Project    | [![Project](https://img.shields.io/badge/Planetary_Software-Project-645394.svg)](https://github.com/planetarysoftware/TSC) | ```[![Project](https://img.shields.io/badge/Planetary_Software-Project-645394.svg)](https://github.com/planetarysoftware/TSC)``` |
