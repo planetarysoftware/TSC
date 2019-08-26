@@ -99,5 +99,13 @@ their charters. The TSC cannot mandate existing working groups alter their
 charters. If such a situation arises, the TSC may decide to revoke the group's
 charter.
 
+## Merging Pull Requests in the TSC Repo
+The submitter of a pull request (PR) is responsible for making changes to the text of the PR.  Any changes to the PR can be suggested by others in the PR thread, but changes to the PR should be made by the PR author.  In order to merge a PR, it must satisfy both of these two conditions:
+
+  1. have been open for 24 hours
+  2. have two approvals
+
+Exceptions to the above are minor typo fixes or cosmetic changes that don't alter the meaning of a document.  Those edits can be made to a PR or directly committed to the repo.
+
 [TSC Charter]: https://github.com/planetarysoftware/TSC/blob/master/TSC-Charter.md
 [Project Lifecycle.md]: ./Project-Lifecycle.md
