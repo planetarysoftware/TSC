@@ -99,13 +99,33 @@ their charters. The TSC cannot mandate existing working groups alter their
 charters. If such a situation arises, the TSC may decide to revoke the group's
 charter.
 
+## Project Application Acceptance Criteria
+
+All applications to the TSC must follow the application template. They are to be
+submitted as a PR into the Planetary Software TSC repository where they may be
+clarified and built-upon by participation from members of the Planetary Software
+community. Any updates/modifications to an application are the responsibility
+of the applying entity. They will be reviewed and voted on by TSC members
+at regularly scheduled meetings. Any PRs related to applications will remain
+open until either accepted or rejected by the TSC. 
+
 ## Merging Pull Requests in the TSC Repo
-The submitter of a pull request (PR) is responsible for making changes to the text of the PR.  Any changes to the PR can be suggested by others in the PR thread, but changes to the PR should be made by the PR author.  In order to merge a PR, it must satisfy both of these two conditions:
+
+The submitter of a pull request (PR) is responsible for making changes to the
+text of the PR.  Any changes to the PR can be suggested by others in the PR
+thread, but changes to the PR should be made by the PR author.  In order to
+merge a PR, it must satisfy both of these two conditions:
 
   1. have been open for 24 hours
   2. have two approvals
 
-Exceptions to the above are minor typo fixes or cosmetic changes that don't alter the meaning of a document.  Those edits can be made via a PR which only requires a single approval (not two, and not open for 24 h) to be merged.
+Exceptions to the above are minor typo fixes or cosmetic changes that don't
+alter the meaning of a document.  Those edits can be made via a PR which only
+requires a single approval (not two, and not open for 24 h) to be merged.
+
+Another exception to the above would be PRs related to the application
+acceptance process of new software projects into the TSC. This is covered in the
+"Application Acceptance Criteria" section.
 
 [TSC Charter]: https://github.com/planetarysoftware/TSC/blob/master/TSC-Charter.md
 [Project Lifecycle.md]: ./Project-Lifecycle.md
