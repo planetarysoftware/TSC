@@ -105,7 +105,7 @@ The submitter of a pull request (PR) is responsible for making changes to the te
   1. have been open for 24 hours
   2. have two approvals
 
-Exceptions to the above are minor typo fixes or cosmetic changes that don't alter the meaning of a document.  Those edits can be made to a PR or directly committed to the repo.
+Exceptions to the above are minor typo fixes or cosmetic changes that don't alter the meaning of a document.  Those edits can be made via a PR which only requires a single approval (not two, and not open for 24 h) to be merged.
 
 [TSC Charter]: https://github.com/planetarysoftware/TSC/blob/master/TSC-Charter.md
 [Project Lifecycle.md]: ./Project-Lifecycle.md
