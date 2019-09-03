@@ -125,7 +125,7 @@ requires a single approval (not two, and not open for 24 h) to be merged.
 
 Another exception to the above would be PRs related to the application
 acceptance process of new software projects into the TSC. This is covered in the
-"Application Acceptance Criteria" section.
+"Project Application Acceptance Criteria" section.
 
 [TSC Charter]: https://github.com/planetarysoftware/TSC/blob/master/TSC-Charter.md
 [Project Lifecycle.md]: ./Project-Lifecycle.md
