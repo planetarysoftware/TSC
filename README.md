@@ -107,7 +107,8 @@ clarified and built-upon by participation from members of the Planetary Software
 community. Any updates/modifications to an application are the responsibility
 of the applying entity. They will be reviewed and voted on by TSC members
 at regularly scheduled meetings. Any PRs related to applications will remain
-open until either accepted or rejected by the TSC. 
+open until either accepted or rejected by the TSC, and will be either merged or
+closed, accordingly. 
 
 ## Merging Pull Requests in the TSC Repo
 
