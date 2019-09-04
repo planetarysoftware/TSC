@@ -4,7 +4,7 @@ Every Working Group must have a Code of Conduct. By default,
 all working groups fall under the [Planetary Software Organization Code of Conduct][]
 but Working Groups can choose to define their own alternative policy.
 If the Working Group does choose its own Code of Conduct, it must be
-documented in a `CODE_OF_CONDUCT.md` file located in the root of any
+documented in a `Code-Of-Conduct.md` file located in the root of any
 repository under their stewardship.
 
 Note that the Code of Conduct adopted by a Working Group will be evaluated
@@ -25,4 +25,4 @@ adopt the recommended changes, the TSC may choose to revoke the WGs charter.
 The [Planetary Software Organization Code of Conduct][]
 applies to this WG.
 
-[Planetary Software Organization Code of Conduct]: https://github.com/planetarysoftware/TSC/blob/master/CODE_OF_CONDUCT.md
+[Planetary Software Organization Code of Conduct]: https://github.com/planetarysoftware/TSC/blob/master/Code-Of-Conduct.md

@@ -5,7 +5,7 @@ all working groups under the Planetary Software Organization fall under
 the [Planetary Software Organization Moderation Policy][], but Working Groups
 can choose to define their own alternative policy. If the Working Group does
 choose it's own Moderation Policy, it must be documented in a
-`ModerationPolicy.md` file located in the root of any repository under
+`Moderation-Policy.md` file located in the root of any repository under
 their stewardship.
 
 Note that the Moderation Policy adopted by a Working Group will be evaluated
