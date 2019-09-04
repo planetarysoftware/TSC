@@ -3,6 +3,7 @@
 The Planetary Software Organization Technical Steering Committee (TSC) is the technical
 governing body of the Planetary Software Organization. It is described in the
 [TSC Charter][].
+The governing documents for the TSC are locating in the root folder of this repository.
 
 ## TSC Scope
 
