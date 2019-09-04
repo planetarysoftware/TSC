@@ -18,7 +18,7 @@ undertaken by another WG then the charter will additionally have to be
 ratified by that WG.
 
 You can submit the WG charter for ratification by sending
-a Pull Request that adds the charter to the WORKING_GROUPS.md document,
+a Pull Request that adds the charter to the Working-Groups.md document,
 which adds it to the list of current Working Groups. The WG is considered
 to be chartered once that PR lands. Once ratified the list of members should be
 maintained in the Working Group's README.
@@ -38,5 +38,5 @@ in this directory are provided to help bootstrap that process:
 
 [Charter Template]: Charter.md
 [Governance Template]: Governance.md
-[Code of Conduct Template]: CODE_OF_CONDUCT.md
-[Moderation Policy Template]: ModerationPolicy.md
+[Code of Conduct Template]: Code-Of-Conduct.md
+[Moderation Policy Template]: Moderation-Policy.md

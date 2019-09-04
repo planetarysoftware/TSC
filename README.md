@@ -74,7 +74,7 @@ For more information look here:
 
 ## Top-Level WGs and TLPs
 
-* [Working Groups](WORKING_GROUPS.md)
+* [Working Groups](Working-Groups.md)
 * Top-Level Projects
  * Core TLP
   * Core WGs (for example, streams)

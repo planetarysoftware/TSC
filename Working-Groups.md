@@ -225,7 +225,7 @@ applies to this WG.
 
 ### Code of Conduct
 
-The [Planetary Software Organization Code of Conduct](./CODE_OF_CONDUCT.md) applies to this WG.
+The [Planetary Software Organization Code of Conduct](./Code-Of-Conduct.md) applies to this WG.
 ```
 
 ## Current Working Groups
