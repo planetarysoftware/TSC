@@ -78,8 +78,6 @@ For more information look here:
 
 * [Working Groups](Working-Groups.md)
 * Top-Level Projects
- * Core TLP
-  * Core WGs (for example, streams)
 
 ## Policy Change Proposal Process
 
