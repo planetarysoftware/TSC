@@ -1,6 +1,6 @@
-# Planetary Software Organization Core Working Groups
+# Planetary Software Organization Top Level Working Groups
 
-Planetary Software Organization Core Working Groups are autonomous projects created by the
+Planetary Software Organization Top Level Working Groups are autonomous projects created by the
 [Technical Steering Committee (TSC)][].
 
 Working Groups can be formed at any time but must be ratified by the TSC.
@@ -24,7 +24,7 @@ becomes the responsibility of the TSC.
 To find out how to join a working group, consult the GOVERNANCE.md in
 the working group's repository.
 
-## Starting a Core Working Group
+## Starting a Top Level Working Group
 
 A Working Group is established by first defining a charter that can be
 ratified by the TSC. A charter is a *statement of purpose*, a
