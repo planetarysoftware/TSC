@@ -8,9 +8,7 @@ must not merely be open, but also easily visible to outsiders.
 
 ## Section 2. Evolution of Planetary Software Governance.
 
-Most large, complex open source communities have both a business and a
-technical governance model. Planetary Software’s technical leadership
-is the Technical Steering Committee (“TSC”). Planetary Software does not (yet) 
+Most large, complex open source communities have both a technical governance model and a business governance model that provide guidance and leadership in these areas. The Planetary Software’s governance model provides technical guidance and leadership via the Technical Steering Committee (“TSC”). Planetary Software does not (yet) 
 have a business leadership model.
 
 The charter amendment process is the means by which the TSC
