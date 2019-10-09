@@ -8,13 +8,29 @@ must not merely be open, but also easily visible to outsiders.
 
 ## Section 2. Evolution of Planetary Software Governance.
 
-Most large, complex open source communities have both a technical governance model and a business governance model that provide guidance and leadership in these areas. The Planetary Software’s governance model provides technical guidance and leadership via the Technical Steering Committee (“TSC”). Planetary Software does not (yet) 
-have a business leadership model.
+Most large, complex open source communities have both a technical
+governance model and a business governance model that provide
+guidance and leadership in these areas. The Planetary Software’s
+governance model provides technical guidance and leadership via the
+Technical Steering Committee (“TSC”). Planetary Software does not
+(yet) have a business leadership model.
 
 The charter amendment process is the means by which the TSC
 proposes changes to this charter using simple majority of the full TSC.
 
-## Section 3. Establishment of the TSC.
+## Section 3. TSC Membership
+
+TSC members are responsible for top-level technical community concerns. The role
+is mostly administrative and is primarily responsible for admitting new Top Level
+Projects and Top Level Working Groups.
+
+TSC members can nominate new members at any time. Candidates for membership tend
+to be people who have a competency for community management and a high tolerance
+and patience for process minutiae as the TSC delegates most of its responsibilities
+to other projects and working groups.
+
+A [current list of TSC members](Members.md) is maintained in the
+main TSC repository.
 
 TSC memberships are not time-limited. There is no maximum size of the TSC.
 The size is expected to vary in order to ensure adequate coverage of important
@@ -50,43 +66,53 @@ to continue attending TSC meetings as an observer.
 
 ## Section 5. Responsibilities of the TSC.  
 
-The TSC is responsible for all technical development within the Planetary Software Organization,
-including:
+The TSC exercises autonomy in setting up and maintaining procedures and policies,
+as well as management and administrative structures as it deems appropriate for the
+maintenance and operation of these projects and resources.
 
-* Setting release dates.
-* Release quality standards.
-* Technical direction.
-* Project governance and process (including this policy).
-* GitHub repository hosting.
-* Maintaining a list of affiliate projects
-* Conduct guidelines.
-* Maintaining the list of additional Collaborators.
-* Development process and coding standards.
+The TSC is responsible for all technical development within the
+Planetary Software Organization, including:
+
+* Technical direction
+* Setting and maintaining governance rules for the conduct and make-up of the
+  TSC, Working Groups and other bodies within the TSC's domain
+* Creating new repositories and projects under the _planetarysoftware_ GitHub organization
+  as required
+* Maintaining a list of projects and working groups
+* Setting and maintaining appropriate standards for community discourse via the
+  various mediums under TSC control
+* Maintaining the list of additional Collaborators
+* Setting and maintaining standards covering contributions of code,
+  documentation and other materials
 * Mediating technical conflicts between Collaborators or Planetary Software Organization
-projects.
+projects
 
-The TSC will define the Planetary Software Organization's release vehicles and serve as
-Planetary Software’s primary technical liaison body with external open
-source projects, consortiums and groups.
+The TSC serves as Planetary Software’s primary technical liaison
+body with external open source projects, consortiums, and groups.
+
+Many of these responsibilities will be delegated by the TSC to appropriate
+bodies such as the Working Groups.
+
 
 ## Section 6. Planetary Software Organization Operations.
 
-The TSC will establish and maintain a development process for the Planetary Software Organization's Projects. The development process will establish guidelines
-for how the developers and community will operate. It will, for example,
-establish appropriate timelines for TSC review (e.g. agenda items must be
-published at least a certain number of hours in advance of a TSC
-meeting).
+The TSC will establish and maintain a development process for the
+Planetary Software Organization's Projects. The development process
+will establish guidelines for how the developers and community will
+operate. It will, for example, establish appropriate timelines for
+TSC review (e.g. agenda items must be published at least a certain
+number of hours in advance of a TSC meeting).
 
-There will be multiple Projects under the Planetary Software Organization organized by
-modules or subsystems. The TSC is responsible for organizing the Project
-structure, including possibly the creation and alignment of sub-Projects.
-Each Project must be within such policies as may be set by the TSC,
-have a well-defined scope and must work within that scope. The
-development process will provide for Projects to follow the lifecycle
-process as described in the [Project Lifecycle][] document. The development
-process will include a process for the TSC to oversee and approve changes
-in the lifecycle of a Project, which will include consideration of the
-following criteria:
+There will be multiple Top-Level Projects (TLPs) under the Planetary
+Software Organization as well as Top-Level Working Groups (TLWGs).
+The TSC is responsible for organizing the structure of these TLPs
+and TLWGs.  Each must be within such policies as may be set by the
+TSC, have a well-defined scope and must work within that scope. The
+development process will provide for TLPs to follow the lifecycle
+process as described in the [Project Lifecycle](Project-Lifecycle.md)
+document. The development process will include a process for the
+TSC to oversee and approve changes in the lifecycle of a Project,
+which will include consideration of the following criteria:
 
 * Cleanliness of code base
 * Ample and diverse Contributors and Collaborators to assure vitality of
@@ -96,13 +122,13 @@ the project.
 * Predictability of releases
 * Alignment with Planetary Software’s goals and priorities.
 
-The TSC and entire technical community will follow any processes as may
-be specified relating to the intake and license compliance
+The TSC and the entire technical community will follow any processes
+as may be specified relating to the intake and license compliance
 review of contributions.
 
 ## Section 7. Voting
 
-For internal project decisions, Collaborators shall operate under Lazy
+For internal project decisions, The TSC shall operate under Lazy
 Consensus. The TSC shall establish appropriate guidelines for
 implementing Lazy Consensus (e.g. expected notification and review time
 periods) within the development process.
@@ -151,7 +177,6 @@ rarely be encumbered by the TSC.
 is organized through the project creation process and approved by the
 TSC.
 
-[Project Lifecycle]: ./Project-Lifecycle.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
