@@ -76,7 +76,8 @@ Planetary Software Organization, including:
 * Technical direction
 * Setting and maintaining governance rules for the conduct and make-up of the
   TSC, Working Groups and other bodies within the TSC's domain
-* Creating new repositories and projects under the _planetarysoftware_ GitHub organization
+* Creating new repositories and projects under the 
+  [_planetarysoftware_ GitHub organization](https://github.com/planetarysoftware)
   as required
 * Maintaining a list of projects and working groups
 * Setting and maintaining appropriate standards for community discourse via the
@@ -128,7 +129,7 @@ review of contributions.
 
 ## Section 7. Voting
 
-For internal project decisions, The TSC shall operate under Lazy
+For internal project decisions, the TSC shall operate under Lazy
 Consensus. The TSC shall establish appropriate guidelines for
 implementing Lazy Consensus (e.g. expected notification and review time
 periods) within the development process.
