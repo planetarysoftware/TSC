@@ -6,9 +6,10 @@ open source community.
 
 The Planetary Software Organization helps software creators grow
 and organize their community by providing a set of ready-to-use
-community guidelines, standards, and governance documents.  The TSC
-also helps software maintainers manage the growth and evolution of
-their open source software by providing mentorship and suggestions.
+community guidelines, standards, and governance documents.  The 
+Planetary Software Organization also helps software maintainers 
+manage the growth and evolution of their open source software by 
+providing mentorship and suggestions.
 
 
 ## The Planetary Software Organization Technical Steering Committee
