@@ -63,9 +63,6 @@ To propose a change or addition to policies or processes that are intended to
 cover all Top-Level Projects and Working Groups in the Planetary Software Organization,
 a PR should be opened in the `planetarysoftware/TSC` repository.
 
-The pull request can be labeled `tsc-agenda` to request that it be put on the
-agenda for the next TSC meeting.
-
 In some cases, existing individual groups have the right to refuse changes to
 their charters. The TSC cannot mandate existing working groups alter their
 charters. If such a situation arises, the TSC may decide to revoke the group's

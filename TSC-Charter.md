@@ -16,7 +16,8 @@ Technical Steering Committee (“TSC”). Planetary Software does not
 (yet) have a business leadership model.
 
 The charter amendment process is the means by which the TSC
-proposes changes to this charter using simple majority of the full TSC.
+proposes changes to this charter, and requires a simple majority 
+of the full TSC.
 
 ## Section 3. TSC Membership
 
