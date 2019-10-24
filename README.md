@@ -84,4 +84,5 @@ made via a PR which only requires a single approval (not two, and
 not open for 24 h) to be merged.
 
 Some kinds of PRs have different rules (those to change the TSC Charter, 
-applications for TLPs and WGs, etc.) and will be detailed in those sections.
+applications for TLPs and WGs, etc.) and will be detailed in their respecitve
+policy documents.

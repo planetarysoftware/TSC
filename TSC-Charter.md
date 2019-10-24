@@ -80,10 +80,9 @@ Planetary Software Organization, including:
 * Creating new repositories and projects under the 
   [_planetarysoftware_ GitHub organization](https://github.com/planetarysoftware)
   as required
-* Maintaining a list of projects and working groups
 * Setting and maintaining appropriate standards for community discourse via the
   various mediums under TSC control
-* Maintaining the list of additional Collaborators
+* Maintaining a list of additional Collaborators
 * Setting and maintaining standards covering contributions of code,
   documentation and other materials
 * Mediating technical conflicts between Collaborators or Planetary Software Organization
@@ -107,14 +106,14 @@ number of hours in advance of a TSC meeting).
 
 There will be multiple Top-Level Projects (TLPs) under the Planetary
 Software Organization as well as Top-Level Working Groups (TLWGs).
-The TSC is responsible for organizing the structure of these TLPs
-and TLWGs.  Each must be within such policies as may be set by the
-TSC, have a well-defined scope and must work within that scope. The
-development process will provide for TLPs to follow the lifecycle
-process as described in the [Project Lifecycle](Project-Lifecycle.md)
-document. The development process will include a process for the
-TSC to oversee and approve changes in the lifecycle of a Project,
-which will include consideration of the following criteria:
+The TSC is responsible for helping these TLPs and TLWGs get organized.
+Each must be within such policies as may be set by the TSC, have a
+well-defined scope and must work within that scope. The development
+process will provide for TLPs to follow the lifecycle process as
+described in the [Project Lifecycle](Project-Lifecycle.md) document.
+The development process will include a process for the TSC to oversee
+and approve changes in the lifecycle of a Project, which will include
+consideration of the following criteria:
 
 * Cleanliness of code base
 * Ample and diverse Contributors and Collaborators to assure vitality of
