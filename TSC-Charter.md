@@ -107,13 +107,18 @@ number of hours in advance of a TSC meeting).
 There will be multiple Top-Level Projects (TLPs) under the Planetary
 Software Organization as well as Top-Level Working Groups (TLWGs).
 The TSC is responsible for helping these TLPs and TLWGs get organized.
-Each must be within such policies as may be set by the TSC, have a
-well-defined scope and must work within that scope. The development
-process will provide for TLPs to follow the lifecycle process as
-described in the [Project Lifecycle](Project-Lifecycle.md) document.
-The development process will include a process for the TSC to oversee
-and approve changes in the lifecycle of a Project, which will include
-consideration of the following criteria:
+These TLPs and TLWGs must operate under policies as may be set by
+the TSC, have a well-defined scope and must work within that scope.
+The development process will provide for TLPs to follow the lifecycle
+process as described in the [Project Lifecycle](Project-Lifecycle.md)
+document.  
+
+Aspects of the lifecycle of a TLP or TLWG and the policies that
+they operate under are overseen by the TSC.  Changes that deviate
+from the guidelines must be approved by the TSC in order for a TLP
+or a TLWG to remain sponsored by the Planetary Software Organization.
+Beyond these strict policies and guidelines, the TSC is also looking
+to encourage these aspects of TLPs and TLWGs:
 
 * Cleanliness of code base
 * Ample and diverse Contributors and Collaborators to assure vitality of
