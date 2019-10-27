@@ -22,7 +22,7 @@ The TSC primarily provides responsive input and organizational help
 to its Top-Level Projects and Working Groups, but is also available
 for consultation by other software projects or endeavors.
 
-Other governing documents for the TSC are locating in the root
+Other governing documents for the TSC are located in the root
 folder of this repository.
 
 
