@@ -233,9 +233,10 @@ A review is initiated by someone requesting a review via an Issue
 on the TSC repo.  This someone could be a member of the proto-TL*'s
 TC, one of the proto-TL*'s mentors, or someone from the TSC.
 
-Two TSC members who are not members of the proto-TL*'s TC will
-review the state of the proto-TL* against the above requirements,
-documenting their findings in the Issue thread.
+Two TSC members who are not conflicted with the proto-TL* (not
+members of its TC, nor its mentors) will review the state of the
+proto-TL* against the above requirements, documenting their findings
+in the Issue thread.
 
 If these two TSC members find that the proto-TL* does not pass the
 criteria, advice will be given for how the TC can rectify the
