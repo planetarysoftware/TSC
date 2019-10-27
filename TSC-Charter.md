@@ -110,7 +110,7 @@ The TSC is responsible for helping these TLPs and TLWGs get organized.
 These TLPs and TLWGs must operate under policies as may be set by
 the TSC, have a well-defined scope and must work within that scope.
 The development process will provide for TLPs to follow the lifecycle
-process as described in the [Project Lifecycle](Project-Lifecycle.md)
+process as described in the [Project Lifecycle](Lifecycle.md)
 document.  
 
 Aspects of the lifecycle of a TLP or TLWG and the policies that
