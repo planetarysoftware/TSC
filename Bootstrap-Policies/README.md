@@ -53,18 +53,14 @@ referred to as the Tehcnical Committee (TC) for the TLP or TLWG.
 
 A TC should have at least 3 initial members to start the work and
 get the application submitted to the Planetary Software TSC, but
-it will need 5 members in order to graduate from Incubation. These
-should be individuals already undertaking the work described in the
-charter.
+it could be fewer.  It will need 3 members in order to graduate
+from Incubation. These should be individuals already undertaking
+the work described in the charter.
 
-Are you concerned about being able to get 5 people?  If your
+Are you concerned about being able to get 3 people?  If your
 application is accepted into Incubation, the Planetary Software TSC
 will help you find a strategy for growing your TC to the needed
 size.
-
-Can't find even 3 people to get things started?  Don't hesitate to
-contact the TSC, or post an Issue on the TSC repo to start a dialogue
-about your great idea for a TLP or a TLWG.
 
 
 ### Base Policies for new Working Groups

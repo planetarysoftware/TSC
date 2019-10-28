@@ -62,9 +62,9 @@ a TC, and so for a TLWG, the TLWG's TC *is* the TLWG itself.
 
 A TC should have at least 3 initial members to write a charter for
 the TL* and get the application submitted to the Planetary Software
-TSC, but it will need 5 members in order to graduate from Incubation.
-These should be individuals already undertaking the work described
-in the charter.
+TSC (but it can be submitted with fewer). It will need 3 members
+in order to graduate from Incubation.  These should be individuals
+already undertaking the work described in the charter.
 
 For more information (and examples) of how to write a charter for a TL*,
 and other important getting-started documents, please see our 
@@ -139,9 +139,9 @@ the recommended changes, the TSC may choose to revoke their charter.
 
 These requirements are as follows:
 
-### TC Membership of at Least Five
+### TC Membership of at Least Three
 
-Membership of the TC must be at least 5 members.
+Membership of the TC must be at least 3 members.
 
 Each TLP TC or TLWG must elect a representative to the Planetary
 Software Organization TSC or vote to abstain from representation

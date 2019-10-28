@@ -44,7 +44,7 @@ For the current list of TC members, see the [member list](Members.md).
 *[end options]*
 
 TC seats are not time-limited.  There is no fixed size of the TC.
-However, the expected target is between 5 and 12, to ensure adequate
+However, the expected target is between 3 and 12, to ensure adequate
 coverage of important areas of expertise, balanced with the ability
 to make decisions efficiently.
 
