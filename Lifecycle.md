@@ -13,8 +13,8 @@ Groups (TLWGs).  TLWGs are typically formed for a specific purpose,
 and when that purpose is achieved, the TLWG will stand down.
 
 TLPs are free to create their own Working Groups which are autonomous groups
-collaborating to fulfill a set of responsibilities. Working Groups are
-eventually chartered by their project TC.
+collaborating to fulfill a set of responsibilities. These Working Groups are
+chartered by the TC of the project they exist under.
 
 ```
  TSC
@@ -29,19 +29,17 @@ eventually chartered by their project TC.
   |-- Working Group Y (Chartered by TSC)
 ```
 
-Both TLPs and TLWGs may elect a representative to the TSC. TLPs and WGs
-with *incubation* status are not granted voting privileges on the TSC.
 
 ## Lifecycle Overview
 
 In general, a TLP or TLWG (hereafter TL*) will have the following lifecycle:
 
 	1. Like-minded individuals form a TC in order to establish a TL*
-	2. That TC establishes a charter for their proto-TL*
+	2. That TC establishes a charter for their TL*
 	3. That TC submits an application to the Planetary Software TSC
-	4. If the application is accepted by the TSC, the proto-TL* enters Incubation
-	5. The TSC works with the TC to get the proto-TL* graduated from Incubation
-	6. The proto-TL* is now a fully authorized Planetary Software TL*
+	4. If the application is accepted by the TSC, the TL* enters Incubation
+	5. The TSC works with the TC to get the TL* graduated from Incubation
+	6. The TL* is now a fully authorized Planetary Software TL*
 
 For TLWGs, which typically have a limited scope in time, they will
 eventually achieve their goal, report to the TSC, and then will
@@ -84,7 +82,7 @@ can work with the authors and their respective communities in each
 Pull Request.
 
 The Application is considered 'accepted' when the Pull Request is
-accepted and merged by the TSC.
+merged by the TSC.
 
 ### Admittance
 The Planetary Software Organization is quite new and currently has
@@ -96,7 +94,7 @@ help improve your application while awaiting available resources.
 
 ## Incubation
 
-The purpose of incubation is to support and mentor a proto-TL* entering the
+The purpose of incubation is to support and mentor a TL* entering the
 organization. The goal is for a TL* to be:
 
 * Participatory
@@ -110,7 +108,7 @@ accepted by a project achieve these goals.  The requirements for
 graduating from incubation are detailed in the section below.
 
 While a TL* is incubating it is assigned a mentor (or mentors) who
-is responsible for working with the project to adopt policies and
+is (are) responsible for working with the project to adopt policies and
 gain the health and contributorship it will need in order to graduate
 from incubation.  The mentor (an individual or individuals that are
 appropriate to the scope of the TL*, but not necessarily members
@@ -224,33 +222,33 @@ an Issue.
 
 ## Graduating from Incubation
 
-A proto-TL* in incubation may graduate at any time by passing a TSC review,
+A TL* in incubation may graduate at any time by passing a TSC review,
 and then passing a majority vote of the TSC.
 
 ### TSC review
 
 A review is initiated by someone requesting a review via an Issue
-on the TSC repo.  This someone could be a member of the proto-TL*'s
-TC, one of the proto-TL*'s mentors, or someone from the TSC.
+on the TSC repo.  This someone could be a member of the TL*'s
+TC, one of the TL*'s mentors, or someone from the TSC.
 
-Two TSC members who are not conflicted with the proto-TL* (not
+Two TSC members who are not conflicted with the TL* (not
 members of its TC, nor its mentors) will review the state of the
-proto-TL* against the above requirements, documenting their findings
+TL* against the above requirements, documenting their findings
 in the Issue thread.
 
-If these two TSC members find that the proto-TL* does not pass the
+If these two TSC members find that the TL* does not pass the
 criteria, advice will be given for how the TC can rectify the
 shortcomings.
 
 The TC can then make changes and request another review.
 
-If the two TSC members both find that the proto-TL* does meet the
+If the two TSC members both find that the TL* does meet the
 criteria to graduate from incubation, then the TSC can hold a
 graduation vote.
 
 ### Graduation Vote
 
-If the proto-TL* has passed a review by two TSC members (see above), it can
+If the TL* has passed a review by two TSC members (see above), it can
 be put to a TSC vote to graduate.
 
 This process can happen either via an agenda item in a regular TSC

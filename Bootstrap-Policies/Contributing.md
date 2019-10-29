@@ -11,7 +11,8 @@ applies to this *[TLP or TLWG name]*.
 *option 2*
 
 *Define your own Contributing Guide, be mindful of the guidelines in
-the Planetary Software [Lifecycle Document](../Lifecycle.md).*
+the Planetary Software [Lifecycle 
+Document](https://github.com/planetarysoftware/TSC/blob/master/Lifecycle.md).*
 
 
 *Regardless of what option you take, you may wish to employ a

@@ -9,8 +9,8 @@ information.
 
 In general, your process will be as follows:
 
-	1. Have a great idea for a TLP or a TLWG
-	2. Find some like-minded individuals
+	1. Have an effort that would benefit from being a TLP or a TLWG
+	2. Find some like-minded individuals <a id="folks"></a>
 	3. Copy the relevant documents from this directory 
 		and modify as needed for your TLP or TLWG
 	4. Submit an application for your TLP or TLWG to enter TSC 
@@ -41,17 +41,18 @@ be broad or subjective.
 If the responsibilities described in the draft charter are currently
 undertaken by another Planetary Software TLP or TLWG, then a
 discussion is required between the existing entity and your new
-proto-TLP or proto-TLWG.  The result will either be that you will
+TLP or TLWG.  The result will either be that you will
 remove that responsibility from your list, or the existing entity
 will alter their charter to accomodate the change of responsibility.
 
 
 ### List of Initial Membership
 
-Those like-minded individuals referenced in Item #2 above are 
-referred to as the Tehcnical Committee (TC) for the TLP or TLWG.
+Those like-minded individuals referenced in [Item #2 above](#folks) are 
+referred to as the Tehcnical Committee (TC) for the TLP or are the members
+of the TLWG.
 
-A TC should have at least 3 initial members to start the work and
+A TC or WG should have at least 3 initial members to start the work and
 get the application submitted to the Planetary Software TSC, but
 it could be fewer.  It will need 3 members in order to graduate
 from Incubation. These should be individuals already undertaking
@@ -65,7 +66,7 @@ size.
 
 ### Base Policies for new Working Groups
 
-Once your TC ratifies a charter (whether you used the [Charter
+Once your TC or WG ratifies a charter (whether you used the [Charter
 Template] in this directory or created your own), you could go
 straight to writing your application to the Planetary Software
 Organization.
@@ -76,7 +77,7 @@ also work on them now.
 
 As the templates indicate, your TLP or TLWG can just choose to
 directly inherit the policies of the Planetary Software TSC.  Your
-TC is also free to change these documents through their own governance
+TC or WG is also free to change these documents through their own governance
 process, but should retain at least the spirit of the original
 versions. The template documents provided in this directory are
 provided to help bootstrap that process.
@@ -90,7 +91,8 @@ for applying in the [Lifecycle Document][lifecycle].
 
 ## Miscellaneous
 
-For software TLPs, we suggest adopting a [versioning policy](../Versioning.md).
+For software TLPs, a versioning policy is required, and we suggest
+adopting the [Semantic Versioning policy](https://semver.org).
 
 
 [lifecycle]: ../Lifecycle.md

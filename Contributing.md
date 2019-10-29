@@ -30,7 +30,8 @@ contributors can be involved in decision making.
 Log an issue for any question or problem you might have. When in
 doubt, log an issue, any additional policies about what to include
 will be provided in the responses. The only exception is a security
-disclosure which should be sent privately.
+disclosure which should be sent privately to the contact address
+listed in the [Code of Conduct](CoC).
 
 Committers may direct you to another repository, ask for additional
 clarifications, and add appropriate metadata before the issue is
@@ -38,7 +39,7 @@ addressed.
 
 Please be courteous and respectful.  Every participant is expected
 to follow the relevant Code of Conduct (e.g. The Planetary Science
-TSC's [Code of Conduct](Code-Of-Conduct.md)).
+TSC's [Code of Conduct](CoC)).
 
 # Contributions
 
@@ -46,8 +47,6 @@ Any change to resources in this repository must be through pull
 requests (PRs). This applies to all changes to documentation, code,
 binary files, etc. Even long term committers and TC members must
 use pull requests.
-
-No pull request can be merged without being reviewed.
 
 In general, the submitter of a PR is responsible for making changes
 to the PR.  Any changes to the PR can be suggested by others in the
@@ -123,3 +122,5 @@ suggestions on how to move forward towards a consensus. It is not
 expected that a meeting of the TC will resolve all issues on its
 agenda during that meeting and may prefer to continue the discussion
 happening among the committers.
+
+[CoC]: Code-Of-Conduct.md
