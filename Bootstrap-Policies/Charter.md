@@ -12,6 +12,9 @@ The *[TLWG name]* is governed by its members.
 
 ## Responsibilities
 
+*[TLWGs probably won't have responsibilities, just a scope that is
+encapsulated in the "Statement of Purpose" above.]*
+
 The *[TLP TC or TLWG name]* responsibilities include:
 
 * Technical direction

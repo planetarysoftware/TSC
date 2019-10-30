@@ -11,7 +11,7 @@ by the TSC.  Once formed, the work defined in the TLWG charter is
 the responsibility of the TLWG rather than the TSC.
 
 It is important that TLWGs are not formed pre-maturely. TLWGs are
-not typically formed to *begin* a set of tasks but instead are
+not formed to *begin* a set of tasks but instead are
 formed once that work is already underway and the contributors think
 it would benefit from being carried out as an autonomous project.
 

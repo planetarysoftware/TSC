@@ -9,7 +9,7 @@ Software TSC.  Typically, TLPs are software projects (but not always)
 and are typically long-lived and open-ended.
 
 The Planetary Software Organization also hosts several Top-Level Working
-Groups (TLWGs).  TLWGs are typically formed for a specific purpose,
+Groups (TLWGs).  TLWGs are formed for a specific purpose,
 and when that purpose is achieved, the TLWG will stand down.
 
 TLPs are free to create their own Working Groups which are autonomous groups

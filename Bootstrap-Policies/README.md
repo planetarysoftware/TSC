@@ -52,11 +52,10 @@ Those like-minded individuals referenced in [Item #2 above](#folks) are
 referred to as the Tehcnical Committee (TC) for the TLP or are the members
 of the TLWG.
 
-A TC or WG should have at least 3 initial members to start the work and
-get the application submitted to the Planetary Software TSC, but
-it could be fewer.  It will need 3 members in order to graduate
-from Incubation. These should be individuals already undertaking
-the work described in the charter.
+If you have fewer than 3 members in your TC or TLWG, your TLP or TLWG
+can still be accepted under incubation.  IN order for a TLP or TLWG
+to graduate out of incubation, the TC or TLWG must have at least 3
+members.
 
 Are you concerned about being able to get 3 people?  If your
 application is accepted into Incubation, the Planetary Software TSC
@@ -71,9 +70,9 @@ Template] in this directory or created your own), you could go
 straight to writing your application to the Planetary Software
 Organization.
 
-However, to get out of Incubation, you will also need to establish
-some other documents, like the ones in this directory, so you could
-also work on them now.
+However, to get out of incubation, there are other [requirements](reqs).
+The documents in this directory are designed to help your TLP or 
+TLWG meet those requirements and are another good starting point.
 
 As the templates indicate, your TLP or TLWG can just choose to
 directly inherit the policies of the Planetary Software TSC.  Your
@@ -96,3 +95,4 @@ adopting the [Semantic Versioning policy](https://semver.org).
 
 
 [lifecycle]: ../Lifecycle.md
+[reqs]: ../Lifecycle.md#Top-Level-Project-and-Working-Group-Requirements
