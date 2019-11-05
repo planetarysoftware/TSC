@@ -9,14 +9,14 @@ These are primarily software projects of various kinds which already
 exist separately.  They benefit from being Planetary Software TLPs
 in the following ways: 
 
-	1. The TSC helps them adopt or formalize governance and
+1. The TSC helps them adopt or formalize governance and
 	community standards to foster their existance as an open
 	source community.
-	2. They gain the ability to easily reach out to the Planetary
+2. They gain the ability to easily reach out to the Planetary
 	Software TSC for consultation or mentorship on technical
 	or governance issues, and have the option to serve on the
 	Planetary Software TSC.
-	3. Being recognized as a Planetary Software TLP lets others
+3. Being recognized as a Planetary Software TLP lets others
 	know that their project conforms to community best practices
 	which are likely to result in long-term success for their
 	project.
