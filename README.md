@@ -12,18 +12,9 @@ manage the growth and evolution of their open source software by
 providing mentorship and suggestions.
 
 
-## The Planetary Software Organization Technical Steering Committee
+## The Planetary Software Organization Membership
 
-The Technical Steering Committee (TSC) is the governing body of the
-Planetary Software Organization, as described in its
-[Charter](TSC-Charter.md).
-
-The TSC primarily provides responsive input and organizational help
-to its Top-Level Projects and Working Groups, but is also available
-for consultation by other software projects or endeavors.
-
-Other governing documents for the TSC are located in the root
-folder of this repository.
+Software creators and maintainers of a project seeking to join The Planetary Software Organization can do so by applying for membership through the application process defined in [Project Lifecycle - Applying To Join](Project-Lifecycle.md#applying-to-join)
 
 
 ## Planetary Software Top-Level Projects
@@ -38,6 +29,20 @@ Learn more about Top-Level Projects.
 Learn more about [Working Groups](Working-Groups.md).
 
 * None yet.
+
+
+## The Planetary Software Organization Technical Steering Committee
+
+The Technical Steering Committee (TSC) is the governing body of the
+Planetary Software Organization, as described in its
+[Charter](TSC-Charter.md).
+
+The TSC primarily provides responsive input and organizational help
+to its Top-Level Projects and Working Groups, but is also available
+for consultation by other software projects or endeavors.
+
+Other governing documents for the TSC are located in the root
+folder of this repository.
 
 
 ## Strategic Initiatives
