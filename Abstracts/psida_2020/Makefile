@@ -1,7 +1,7 @@
 # Just a simple Makefile wrapper around latexmk, 
 # simply because my hands are so used to typing 'make'
 
-ABS = lpsc_abstract.pdf
+ABS = psida_abstract.pdf
 COMPRESSED_SUFFIX = _compressed.pdf
 COMPRESSED = $(addsuffix $(COMPRESSED_SUFFIX), $(basename $(ABS)))
 
