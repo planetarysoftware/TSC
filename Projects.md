@@ -22,7 +22,7 @@ in the following ways:
 	project.
 
 Groups can submit applications for their project to become a TLP
-at any time but must go through the TLP [lifecycle process][lifecycle]
+at any time but must go through the TLP [lifecycle process](Lifecycle.md)
 and be approved by the TSC.  The TSC never takes responsibility or 
 any kind of ownership of the project. The TSC approves the submitted
 charter and governance documents, and works with the newly-certified
