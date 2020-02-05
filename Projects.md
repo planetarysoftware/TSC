@@ -49,7 +49,7 @@ Contributing document in the TLP's repository.
 ## Starting a Top Level Project
 
 To submit a project as a TLP or start a TLP, become familiar with the
-[lifecycle of a TLP][lifecycle], and read through the [example
+[lifecycle of a TLP](Lifecycle.md), and read through the [example
 documents](Bootstrap-Policies/) to get started.
 
 
