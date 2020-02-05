@@ -51,6 +51,3 @@ Contributing document in the TLP's repository.
 To submit a project as a TLP or start a TLP, become familiar with the
 [lifecycle of a TLP](Lifecycle.md), and read through the [example
 documents](Bootstrap-Policies/) to get started.
-
-
-[lifecycle]: Lifecycle.md
