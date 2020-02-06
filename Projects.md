@@ -22,7 +22,7 @@ in the following ways:
 	project.
 
 Groups can submit applications for their project to become a TLP
-at any time but must go through the TLP [lifecycle process](lifecycle)
+at any time but must go through the TLP [lifecycle process](Lifecycle.md)
 and be approved by the TSC.  The TSC never takes responsibility or 
 any kind of ownership of the project. The TSC approves the submitted
 charter and governance documents, and works with the newly-certified
@@ -49,8 +49,5 @@ Contributing document in the TLP's repository.
 ## Starting a Top Level Project
 
 To submit a project as a TLP or start a TLP, become familiar with the
-[lifecycle of a TLP](lifecycle), and read through the [example
+[lifecycle of a TLP](Lifecycle.md), and read through the [example
 documents](Bootstrap-Policies/) to get started.
-
-
-[lifecycle]: Lifecycle.md
