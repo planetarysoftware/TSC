@@ -4,12 +4,12 @@ The Planetary Software Organization promotes open source software
 in the planetary sciences by helping software creators and maintainers
 foster an open source community.
 
-The Planetary Software Organization helps software creators grow
-and organize their community by providing a set of ready-to-use
-community guidelines, standards, and governance documents.  The 
-Planetary Software Organization also helps software maintainers 
-manage the growth and evolution of their open source software by 
-providing mentorship and suggestions.
+The Planetary Software Organization does not assume ownership of software 
+but rather help software creators grow and organize their community by 
+providing a set of ready-to-use community guidelines, standards, and 
+governance documents.  The Planetary Software Organization also helps 
+software maintainers manage the growth and evolution of their open source 
+software by providing mentorship and suggestions.
 
 
 ## The Planetary Software Organization Technical Steering Committee
