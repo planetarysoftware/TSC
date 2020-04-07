@@ -1,4 +1,4 @@
-﻿# Technical Steering Committee (TSC) Charter
+# Technical Steering Committee (TSC) Charter
 
 ## Section 1. Guiding Principle.
 
@@ -19,7 +19,14 @@ The charter amendment process is the means by which the TSC
 proposes changes to this charter, and requires a simple majority 
 of the full TSC.
 
-## Section 3. TSC Membership
+
+## Section 3. Project Ownership
+
+Project governance as defined above, does not include project ownership. 
+
+However, the TSC does recognize the open-source definition of project ownership as defined at the end of this document. Unless specifically stated in the project application, the open-source definition of ownership will be used, meaning, the project is essentially owned by the project community that is actively contributing to the project code base.
+
+## Section 4. TSC Membership
 
 TSC members are responsible for top-level technical community concerns. The role
 is mostly administrative and is primarily responsible for admitting new Top Level
@@ -110,7 +117,7 @@ The TSC is responsible for helping these TLPs and TLWGs get organized.
 These TLPs and TLWGs must operate under policies as may be set by
 the TSC, have a well-defined scope and must work within that scope.
 The development process will provide for TLPs to follow the lifecycle
-process as described in the [Project Lifecycle](Lifecycle.md)
+process as described in the [Project Lifecycle](Project-Lifecycle.md)
 document.  
 
 Aspects of the lifecycle of a TLP or TLWG and the policies that
@@ -182,6 +189,13 @@ rarely be encumbered by the TSC.
 * **Project**: a technical collaboration effort, e.g. a subsystem, that
 is organized through the project creation process and approved by the
 TSC.
+
+* **Ownership**: of an open-source software project remains with the person or 
+persons who have the right, recognized by the community at large, to 
+contribute to and distribute modified versions. Unless specifically stated in 
+the project application, the open-source definition of ownership will be used, 
+meaning, the project is essentially owned by the existing or newly created 
+project community. 
 
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
