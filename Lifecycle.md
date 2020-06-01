@@ -220,7 +220,7 @@ projects which use an MIT, BSD, ISC, Apache2, or UnLicense license.
 If you think another license would be appropriate, please submit 
 an Issue.
 
-### 5. TSC Review
+### 5. TSC Review - Issue Created
 
 A TL* in incubation may graduate at any time by passing a TSC review,
 and then passing a majority vote of the TSC.
