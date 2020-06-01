@@ -34,12 +34,12 @@ chartered by the TC of the project they exist under.
 
 In general, a TLP or TLWG (hereafter TL*) will have the following lifecycle:
 
-	1. Like-minded individuals form a TC in order to establish a TL*
-	2. That TC establishes a charter for their TL*
-	3. That TC submits an application to the Planetary Software TSC
-	4. If the application is accepted by the TSC, the TL* enters Incubation
-	5. The TSC works with the TC to get the TL* graduated from Incubation
-	6. The TL* is now a fully authorized Planetary Software TL*
+	* Like-minded individuals form a TC in order to establish a TL*
+	* That TC establishes a charter for their TL* and submits an application to the Planetary Software TSC
+	* If the application is accepted by the TSC, the TL* enters Incubation
+	* A mentor(s) is assigned tor work the TC to get the TL* to ensure requirements are met
+	* Once requirements are met, the TSC votes to graduate the TL* from Incubation
+	* The TL* is now a fully authorized Planetary Software TL*
 
 For TLWGs, which typically have a limited scope in time, they will
 eventually achieve their goal, report to the TSC, and then will
@@ -68,23 +68,8 @@ For more information (and examples) of how to write a charter for a TL*,
 and other important getting-started documents, please see our 
 [examples](Bootstrap-Policies/).
 
-## Submitting an Application
+## Membership Application and Approval Process
 
-The application process to join the Planetary Software Organization
-as a TLP or TLWG is as follows.
-
-Copy the [Application Template](Applications/Template.md), fill
-it out, add the file to the [Applications](Applications/)
-directory, and submit that as a Pull Request.
-
-Applications do not have to be complete to be submitted, the TSC
-can work with the authors and their respective communities in each
-Pull Request.
-
-The Application is considered 'accepted' when the Pull Request is
-merged by the TSC.
-
-### Admittance
 The Planetary Software Organization is quite new and currently has
 limited resources available to mentor new projects. As such, projects
 are chosen for admission as mentors become available.
@@ -92,7 +77,24 @@ are chosen for admission as mentors become available.
 You can apply at any time and the TSC and available mentors will
 help improve your application while awaiting available resources.
 
-## Incubation
+The process to join the Planetary Software Organization
+as a TLP or TLWG is as follows.
+
+### 1. Application Completed - Pull Request Submitted
+
+Copy the [Application Template](Applications/Template.md), fill
+it out, add the file to the [Applications](Applications/)
+directory and submit this as a Pull Request.
+
+Applications do not have to be complete to be submitted, the TSC
+can work with the authors and their respective communities in each
+Pull Request.
+
+### 2. Pull Request is Merged - Application is Accepted
+
+When the Pull Request is merged, the Application is considered 'accepted' and can proceed to the next step.
+
+### 3. Incubation Period Begins - Mentor is Assigned
 
 The purpose of incubation is to support and mentor a TL* entering the
 organization. The goal is for a TL* to be:
@@ -115,8 +117,7 @@ appropriate to the scope of the TL*, but not necessarily members
 of the TSC) is nominated, must be willing to serve, and approved
 by the Planetary Software TSC.
 
-
-## Top-Level Project and Working Group Requirements
+#### Requirements Needed to Graduate from Incubation
 
 The requirements for graduating from incubation (and remaining a
 Planetary Software TLP or TLWG) are not specific processes, but
@@ -137,7 +138,7 @@ the recommended changes, the TSC may choose to revoke their charter.
 
 These requirements are as follows:
 
-### TC Membership of at Least Three
+##### TC Membership of at Least Three
 
 Membership of the TC must be at least 3 members.
 
@@ -146,7 +147,7 @@ Software Organization TSC or vote to abstain from representation
 on the TSC.
 
 
-### Transparency
+##### Transparency
 
 The decision making and release process must be documented and
 publicly accessible.
@@ -156,7 +157,7 @@ Decisions must be made publicly through a documented public process
 managed by each TLP TC or TLWG.
 
 
-### Charter
+##### Charter
 
 Every TLP or TLWG must have a charter that describes their statement
 of purpose, scope of their responsibilities, and members.   It should
@@ -175,7 +176,7 @@ All TLP TCs must ensure they are accurately representing the WGs
 in their TLP.
 
 
-### Code of Conduct
+##### Code of Conduct
 
 Every TLP or TLWG must have a Code of Conduct, and what that code
 is should be documented in a `Code-Of-Conduct` file located in the
@@ -203,7 +204,7 @@ or a PR in the TLP's or TLWG's repository. Should the TLP or TLWG
 choose not to adopt the recommended changes, the TSC may choose to
 revoke their charter.
 
-### Contributing Guidelines
+##### Contributing Guidelines
 
 Every TLP or TLWG must have Contributing Guidelines, and they should
 be documented in a `Contributing` file located in the root of any
@@ -212,20 +213,17 @@ repository under their stewardship.
 This document should describe a very simple process suitable for most 
 TLPs and TLWGs in the Planetary Software Organization ecosystem.
 
-## Approved Licenses
+#### Approved Licenses
 
 At this time the Planetary Software Organization is only accepting
 projects which use an MIT, BSD, ISC, Apache2, or UnLicense license.
 If you think another license would be appropriate, please submit 
 an Issue.
 
-
-## Graduating from Incubation
+### 5. TSC Review
 
 A TL* in incubation may graduate at any time by passing a TSC review,
 and then passing a majority vote of the TSC.
-
-### TSC review
 
 A review is initiated by someone requesting a review via an Issue
 on the TSC repo.  This someone could be a member of the TL*'s
@@ -246,7 +244,7 @@ If the two TSC members both find that the TL* does meet the
 criteria to graduate from incubation, then the TSC can hold a
 graduation vote.
 
-### Graduation Vote
+### 6. TSC Graduation Vote
 
 If the TL* has passed a review by two TSC members (see above), it can
 be put to a TSC vote to graduate.
@@ -262,7 +260,7 @@ meeting).
 
 The TLP or TLWG is considered to be chartered once that PR lands.
 
-### Badges
+#### Badges
 
 Once admitted, please update the relevant readme files for the
 project to include the appropriate Planetary Software Organization
