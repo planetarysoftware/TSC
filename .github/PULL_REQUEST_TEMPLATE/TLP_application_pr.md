@@ -1,6 +1,6 @@
 # Top-Level Project (TLP) Application Checklist
 
-This is a top level checklist for the steps enumerated in the Template.md file.
+This is a top level checklist for the steps enumerated in the [Template.md](/Applications/Template.md) file.
 
 1. [ ] Wrote Introduction  
 2. [ ] History & Outlook  
