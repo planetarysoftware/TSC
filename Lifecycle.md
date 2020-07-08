@@ -210,9 +210,9 @@ be documented in a `Contributing` file located in the root of any
 repository under their stewardship.
 
 This document should describe a very simple process.  The [Planetary
-Software Organization Contributing document][Contributing.md] is
+Software Organization Contributing document](Contributing.md) is
 one example, but there are other models discussed in the [Bootstrap
-Policies][Bootstrap-Policies/Contributing.md].
+Policies](Bootstrap-Policies/Contributing.md).
 
 ## Approved Licenses
 
