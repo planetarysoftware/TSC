@@ -34,12 +34,12 @@ chartered by the TC of the project they exist under.
 
 In general, a TLP or TLWG (hereafter TL*) will have the following lifecycle:
 
-	* Like-minded individuals form a TC in order to establish a TL*
-	* That TC establishes a charter for their TL* and submits an application to the Planetary Software TSC
-	* If the application is accepted by the TSC, the TL* enters Incubation
-	* A mentor(s) is assigned tor work the TC to get the TL* to ensure requirements are met
-	* Once requirements are met, the TSC votes to graduate the TL* from Incubation
-	* The TL* is now a fully authorized Planetary Software TL*
+* Like-minded individuals form a TC in order to establish a TL*
+* That TC establishes a charter for their TL* and submits an application to the Planetary Software TSC
+* If the application is accepted by the TSC, the TL* enters Incubation
+* A mentor(s) is assigned tor work the TC to get the TL* to ensure requirements are met
+* Once requirements are met, the TSC votes to graduate the TL* from Incubation
+* The TL* is now a fully authorized Planetary Software TL*
 
 For TLWGs, which typically have a limited scope in time, they will
 eventually achieve their goal, report to the TSC, and then will
