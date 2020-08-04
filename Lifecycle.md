@@ -94,7 +94,7 @@ Pull Request.
 
 When the Pull Request is merged, the Application is considered 'accepted' and can proceed to the next step.
 
-### 3. Incubation Period Begins - Mentor is Assigned
+### 3. Incubation Period Begins - Mentor is Assigned and Issue is Created
 
 The purpose of incubation is to support and mentor a TL* entering the
 organization. The goal is for a TL* to be:
@@ -116,6 +116,9 @@ from incubation.  The mentor (an individual or individuals that are
 appropriate to the scope of the TL*, but not necessarily members
 of the TSC) is nominated, must be willing to serve, and approved
 by the Planetary Software TSC.
+
+An issue will be created to support and discuss the project's progress 
+during incubation.
 
 #### Requirements Needed to Graduate from Incubation
 
