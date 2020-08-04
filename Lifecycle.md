@@ -80,7 +80,7 @@ help improve your application while awaiting available resources.
 The process to join the Planetary Software Organization
 as a TLP or TLWG is as follows.
 
-### 1. Application Completed - Pull Request Submitted
+### 1. Submit Application - Pull Request Submitted
 
 Copy the [Application Template](Applications/Template.md), fill
 it out, add the file to the [Applications](Applications/)
@@ -90,7 +90,7 @@ Applications do not have to be complete to be submitted, the TSC
 can work with the authors and their respective communities in each
 Pull Request.
 
-### 2. Pull Request is Merged - Application is Accepted
+### 2. Application is Accepted - Pull Request is Merged
 
 When the Pull Request is merged, the Application is considered 'accepted' and can proceed to the next step.
 
