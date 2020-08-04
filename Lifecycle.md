@@ -209,8 +209,10 @@ Every TLP or TLWG must have Contributing Guidelines, and they should
 be documented in a `Contributing` file located in the root of any
 repository under their stewardship.
 
-This document should describe a very simple process suitable for most 
-TLPs and TLWGs in the Planetary Software Organization ecosystem.
+This document should describe a very simple process.  The [Planetary
+Software Organization Contributing document](Contributing.md) is
+one example, but there are other models discussed in the [Bootstrap
+Policies](Bootstrap-Policies/Contributing.md).
 
 ## Approved Licenses
 
