@@ -84,7 +84,7 @@ as a TLP or TLWG is as follows.
 
 Copy the [Application Template](Applications/Template.md), fill
 it out, add the file to the [Applications](Applications/)
-directory and submit this as a Pull Request.
+directory, and submit the filled in Template.md as a Pull Request to this repository.
 
 Applications do not have to be complete to be submitted, the TSC
 can work with the authors and their respective communities in each
