@@ -25,7 +25,7 @@ project in the following areas:
 * Mediating technical conflicts between Collaborators.
 
 ## Governance
-The ISIS software project is currently jointly governed by the [ISIS TC](https://github.com/USGS-Astrogeology/ISIS_TC).
+The ISIS software project is currently jointly governed by the [ISIS TC](https://github.com/USGS-Astrogeology/ISIS_TC) and the USGS Astrogeology Science Center (ASC).
 
 ## Contributions, Code of Conduct
 Contributions are proposed via pull request on GitHub and then reviewed by software developers at the ASC. Bug reports are posted as GitHub issues. For large changes, request for comments are posted on the GitHub wiki.
