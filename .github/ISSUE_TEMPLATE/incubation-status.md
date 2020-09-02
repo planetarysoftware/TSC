@@ -34,18 +34,18 @@ As each requirement is met, check the box next to it. Under each heading write a
 -->
 
 ### Participation
- - At least three members participating [ ]
+ - [ ] At least three members participating
 
 ### Transparency
- - All decisions and the decision making process are publicly documented [ ]
+ - [ ] All decisions and the decision making process are publicly documented
 
 ### Charter
- - The <!---project/working group--> has a public charter [ ]
+ - [ ] The <!---project/working group--> has a public charter
 
 ### Code of Conduct
- - The <!---project/working group--> has a public code of conduct [ ]
+ - [ ] The <!---project/working group--> has a public code of conduct
 
 ### Contributing Guidelines
- - The <!---project/working group--> has a public contributing guidelines [ ]
+ - [ ] The <!---project/working group--> has a public contributing guidelines
 
 [Lifecycle]: Lifecycle.md
