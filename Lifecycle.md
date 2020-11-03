@@ -220,10 +220,9 @@ Policies](Bootstrap-Policies/Contributing.md).
 
 #### Approved Licenses
 
-At this time the Planetary Software Organization is only accepting
-projects which use an MIT, BSD, ISC, Apache2, or UnLicense license.
-If you think another license would be appropriate, please submit 
-an Issue.
+At this time the Planetary Software Organization is only accepting projects which use an MIT, BSD, ISC, Apache2, or UnLicense license.
+
+If the project requires another license, an exception may be made but the need for this exception must be clearly documented in the project's application.
 
 ### 5. TSC Review - Issue Created
 
