@@ -14,7 +14,7 @@ providing mentorship and suggestions.
 
 ## The Planetary Software Organization Membership
 
-Software creators and maintainers of a project seeking to join The Planetary Software Organization can do so by applying for membership through the application process defined in [Project Lifecycle - Applying To Join](Project-Lifecycle.md#applying-to-join)
+Software creators and maintainers of a project seeking to join The Planetary Software Organization can do so by applying for membership through the application process defined in [Lifecycle - Membership Application and Approval Process](Lifecycle.md#membership-application-and-approval-process)
 
 
 ## Planetary Software Top-Level Projects
