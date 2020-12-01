@@ -51,7 +51,7 @@ or TLWG charter.
 
 ## Establishing a Technical Committee
 
-Those like-minded individuals referenced in Item #1 above are 
+Those like-minded individuals referenced in Item #1 above are
 referred to as the Technical Committee (TC).  Typically, a TLP will
 have a TC and then also (hopefully) many other individuals that
 will contribute to the TLP and collaborate with the TC (either at formation
@@ -65,7 +65,7 @@ in order to graduate from Incubation.  These should be individuals
 already undertaking the work described in the charter.
 
 For more information (and examples) of how to write a charter for a TL*,
-and other important getting-started documents, please see our 
+and other important getting-started documents, please see our
 [examples](Bootstrap-Policies/).
 
 ## Membership Application and Approval Process
@@ -117,7 +117,7 @@ appropriate to the scope of the TL*, but not necessarily members
 of the TSC) is nominated, must be willing to serve, and approved
 by the Planetary Software TSC.
 
-An issue will be created to support and discuss the project's progress 
+An issue will be created to support and discuss the project's progress
 during incubation.
 
 #### Requirements Needed to Graduate from Incubation
@@ -125,7 +125,7 @@ during incubation.
 The requirements for graduating from incubation (and remaining a
 Planetary Software TLP or TLWG) are not specific processes, but
 instead are broad best-practices that that are likely to succeed
-in terms of the Planetary Software Organization's values. 
+in terms of the Planetary Software Organization's values.
 
 Note that all of these practices adopted by a TLP or TLWG will be
 evaluated by the TSC prior to ratifying the proposed charter for
@@ -222,8 +222,17 @@ Policies](Bootstrap-Policies/Contributing.md).
 
 At this time the Planetary Software Organization is only accepting
 projects which use an MIT, BSD, ISC, Apache2, or UnLicense license.
-If you think another license would be appropriate, please submit 
+If you think another license would be appropriate, please submit
 an Issue.
+
+This policy does not apply to dependencies of a project, but if a dependency of
+a project is commerically licensed or not publicly available, then the project
+should still be as functional as possible without it. For example if a project
+has a dependency that provides a proprietary algorithm, functionality that does
+not use the algorithm should still be functional when the dependency is not
+available. This ensures that members of the open source community who do not
+have access to or a license for the dependency are able to contribute and use
+other parts of the software.
 
 ### 5. TSC Review - Issue Created
 
