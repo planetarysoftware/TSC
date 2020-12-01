@@ -226,13 +226,13 @@ If you think another license would be appropriate, please submit
 an Issue.
 
 This policy does not apply to dependencies of a project, but if a dependency of
-a project is commerically licensed or not publicly available, then the project
-should still be as functional as possible without it. For example if a project
-has a dependency that provides a proprietary algorithm, functionality that does
-not use the algorithm should still be functional when the dependency is not
-available. This ensures that members of the open source community who do not
-have access to or a license for the dependency are able to contribute and use
-other parts of the software.
+a project is not freely available, then the project should still be as
+functional as possible without it. For example if a project has a dependency
+that provides a proprietary algorithm, functionality that does not use the
+algorithm should still be functional when the dependency is not present. This
+ensures that members of the open source community who do not have access to or a
+license for the dependency are able to contribute and use other parts of the
+software.
 
 ### 5. TSC Review - Issue Created
 

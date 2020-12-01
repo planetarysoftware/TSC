@@ -27,7 +27,7 @@ current state of your efforts?
 What does your team want to achieve?
 
 
-## Metrics 
+## Metrics
 
 For TLPs, a description of the existing or expected user base,
 ecosystem, and community.
@@ -71,7 +71,9 @@ Existing IP Policy and relevant intellectual property
 ### Licenses
 
 If licenses are relevant to this TLP or TLWG, please describe the current
-or expected licensing situation.
+or expected licensing situation. If there are any dependencies that are not
+freely available please indicate them here and how their absence impacts the
+functionality of the project.
 
 ## Members
 
