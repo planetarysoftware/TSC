@@ -13,7 +13,7 @@ Currently, the majority of code contributors are employees or past employees of 
 ## Scope
 The ISIS software project encompasses software used for photometric and photogramettric processing of planetary remote sensing data.
 
-The ISIS working group will have sole responsibility and discretion over the Planetary Software
+The ISIS technical committee will have sole responsibility and discretion over the Planetary Software
 project in the following areas:
 
 * Release processes (including setting release cadence and release quality standards).
@@ -25,14 +25,14 @@ project in the following areas:
 * Mediating technical conflicts between Collaborators.
 
 ## Governance
-The ISIS software project is currently jointly governed by the [ISIS TC](https://github.com/USGS-Astrogeology/ISIS_TC) and the USGS Astrogeology Science Center (ASC).
+The ISIS software project is currently jointly governed by the [ISIS TC](https://github.com/USGS-Astrogeology/ISIS_TC) and the USGS Astrogeology Science Center (ASC). Historically, the ASC had sole control and owernship of the project. As the project works to become more open, responsibilities are being moved from the ASC to the ISIS TC. This is a complicated relationship and process because the ASC development team are the only group funded to make significant contributions to the project. The ultimate goal is for the ISIS TC to establish a set of guidelines for contributors to follow. This provides transparency about how/what the ASC development team contributes to the project and defines how/what others can contibute.
 
 ## Contributions, Code of Conduct
-Contributions are proposed via pull request on GitHub and then reviewed by software developers at the ASC. Bug reports are posted as GitHub issues. For large changes, request for comments are posted on the GitHub wiki.
+Contributions are proposed via pull request on GitHub and then reviewed by contributors with commit permissions. Bug reports are posted as GitHub issues. For large changes, requests for comment are posted on the GitHub wiki.
 
-The current contributing documents on the repository are out of date and the ISIS TC is working on updating them.
+The contributing guidelines are in the repo's [CONTRIBUTING.MD](https://github.com/USGS-Astrogeology/ISIS3/blob/dev/CONTRIBUTING.md).
 
-The project's code of conduct is also being worked on by the ISIS TC.
+The project uses the Planetary Software TSC code of conduct.
 
 ## Tools
 The ISIS software project uses a variety of tools:
@@ -50,10 +50,10 @@ The ISIS software project uses a variety of tools:
 - Releases are built and distributed via Conda Build and Anaconda Cloud
 - Automated tests are written in a combination of GNU Makefiles and GoogleTest
 - Tests are run by ctest
-- A Jenkins CI server is currently under development at astroservices.usgs.gov/jenkins
+- CI is run on a Jenkins server hosted by the ASC and can be viewed at https://astroservices.usgs.gov/jenkins/
 
 ## IP
-The ISIS software project is currently licensed under the Creative Commons 0 license. The one IP concern is the use of the (Kakadu)[https://kakadusoftware.com/] library for JPEG2000 support. We have the ability to exclude it in a build, but it is important for processing images from the HiRISE instrument.
+The ISIS software project is currently licensed under the Creative Commons 0 license. The one IP concern is the use of the [Kakadu](https://kakadusoftware.com/) library for JPEG2000 support. It can be excluded from the build, but it is important for processing images from the HiRISE instrument. The ASC purchases a license to distribute the compiled library so that it is available with all releases, but other developers will need their own license to compile the software themselves with Kakadu.
 
 ## TC Members
 - [Andrew Annex](https://github.com/AndrewAnnex)
