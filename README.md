@@ -28,8 +28,8 @@ folder of this repository.
 
 ## Planetary Software Top-Level Projects
 
-* [PlanetaryPy](https://github.com/planetarypy/TC)
 * [ISIS](https://github.com/USGS-Astrogeology/ISIS_TC)
+* [PlanetaryPy](https://github.com/planetarypy/TC)
 
 Learn more about [Top-Level Projects](Projects.md).
 
