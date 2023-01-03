@@ -2,7 +2,7 @@
 
 Planetary Software Organization Top-Level Working Groups (TLWGs)
 are autonomous projects typically initiated by the [Technical
-Steering Committee (TSC)](TSCcharter), but external individuals can
+Steering Committee (TSC)](TSC-Charter.md), but external individuals can
 also submit an application to form a TLWG.
 
 Top-Level Working Groups can be formed at any time but must go
