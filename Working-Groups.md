@@ -2,11 +2,11 @@
 
 Planetary Software Organization Top-Level Working Groups (TLWGs)
 are autonomous projects typically initiated by the [Technical
-Steering Committee (TSC)](TSCcharter), but external individuals can
+Steering Committee (TSC)](TSC-Charter.md), but external individuals can
 also submit an application to form a TLWG.
 
 Top-Level Working Groups can be formed at any time but must go
-through the TLWG [lifecycle process](lifecycle) and be approved
+through the TLWG [lifecycle process](Lifecycle.md) and be approved
 by the TSC.  Once formed, the work defined in the TLWG charter is
 the responsibility of the TLWG rather than the TSC.
 
@@ -29,9 +29,6 @@ Contributing document in the TLWG's repository.
 ## Starting a Top Level Working Group
 
 To start a top level working group, become familiar with the
-[lifecycle of a TLWG](lifecycle), and read through the [example
+[lifecycle of a TLWG](Lifecycle.md), and read through the [example
 documents](Bootstrap-Policies/) to get started.
 
-
-[TSCcharter]: TSC-Charter.md
-[lifecycle]: Lifecycle.md
