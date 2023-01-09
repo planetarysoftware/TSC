@@ -11,9 +11,10 @@ and have the support needed.
 
 # Current Initiatives
 
-| Initiative        | Champion                                                  | Links                                                            |
-|-------------------|-----------------------------------------------------------|------------------------------------------------------------------|
-| CSM            | [Trent Hare][thareusgs]                                    | https://github.com/USGS-Astrogeology/CSM-CameraModel |
+| Initiative         | Champion                                                  | Links                                                            |
+|--------------------|-----------------------------------------------------------|------------------------------------------------------------------|
+| CSM                | [Trent Hare][thareusgs]                                   | https://github.com/USGS-Astrogeology/CSM-CameraModel             |
+| Cloud Native PSDI  | [Andrew Annex][andrewannex]                               | https://github.com/AndrewAnnex/planetcantile                     |
 
 # Need volunteers for
 
@@ -30,3 +31,4 @@ and have the support needed.
 
 
 [thareusgs]: https://github.com/thareusgs
+[andrewannex]: https://github.com/andrewannex
